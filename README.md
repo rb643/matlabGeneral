@@ -1,2 +1,2 @@
 # matlabGeneral
-Some general matlab scripts
+Some general matlab scripts for everyone to use :)
